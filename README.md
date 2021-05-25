@@ -3,5 +3,5 @@
 
 # EASY WAY TO USE
 * Follow https://github.com/continental/fineftp-server to start
-* Replace root_dir/example/src/main.cpp
+* Replace build_dir/example/src/main.cpp
 * Build
